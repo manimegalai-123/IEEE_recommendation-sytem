@@ -1,0 +1,23 @@
+# Raw datasets
+dataset/raw/
+
+# Processed datasets
+dataset/processed/*.pkl
+dataset/processed/*.npz
+
+# Model files
+*.pt
+*.pth
+*.npy
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/

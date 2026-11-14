@@ -1,0 +1,7 @@
+{
+    "model": "Popularity Baseline",
+    "validation_HR@10": 0.04023680513746739,
+    "validation_NDCG@10": 0.02009763054233829,
+    "test_HR@10": 0.03722657033915312,
+    "test_NDCG@10": 0.019505673106693083
+}

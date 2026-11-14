@@ -1,0 +1,7 @@
+{
+    "model": "Matrix Factorization with BPR",
+    "embedding_dim": 32,
+    "epochs": 20,
+    "HR@10": 0.06060606241226196,
+    "NDCG@10": 0.029867321252822876
+}
